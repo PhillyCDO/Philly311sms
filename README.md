@@ -23,3 +23,5 @@ You'll need to install NancyFx, JSON.NET and Twilio.NET via the [NuGet package m
 The C# class for Open311 is not yet availalbe via NuGet, so [clone the repo](https://github.com/mheadd/csharp-open311), open the solution, build, then move the resultant <code>.dll</code> file into your solution.
 
 You'll need a Twilio account. Add your account credentials in <code>Web.config</code> and your good to go. 
+
+A test instance is currently running and can be accessed by sending a valid Philadelphia service request ID to (215) 600-2137.
