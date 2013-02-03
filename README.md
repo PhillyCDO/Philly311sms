@@ -1,6 +1,6 @@
 #Philly311SMS
 
-This is a demo app that shows how to use the Philly311 API to enable text message lookups for the status of service requests.
+This is a demo app that shows how to use the [Philly311 API](http://phlapi.com/open311.html) to enable text message lookups for the status of service requests.
 
 ##Modules
 
