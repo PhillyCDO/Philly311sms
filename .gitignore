@@ -1,0 +1,10 @@
+[Oo]bj
+*.suo
+*.user
+*.pdb
+Philly311SMS/Controllers
+Philly311SMS/Content
+Philly311SMS/Models
+Philly311SMS/Scripts
+Philly311SMS/Views
+desktop.ini
