@@ -24,4 +24,4 @@ The C# class for Open311 is not yet availalbe via NuGet, so [clone the repo](htt
 
 You'll need a Twilio account. Add your account credentials in <code>Web.config</code> and your good to go. 
 
-A test instance is currently running and can be accessed by sending a valid Philadelphia service request ID to (215) 600-2137.
+A test instance is currently running and can be accessed by sending a valid Philadelphia service request ID to (215) 600-2137. Note - currently the Philly 311 API only exposes service requets created through the Philly311 mobile app or the Philly311 website. Not all service requests can be access through this test app.
